@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+#output{
+    display: flex;
+    gap: 16px;
+}
+
+.army-card{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    display: inline;
+}
